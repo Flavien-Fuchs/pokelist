@@ -1,0 +1,38 @@
+ul {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+
+}
+
+h1 {
+    font-family: "Arial Black", Gadget, sans-serif;
+    letter-spacing: -0.8px;
+    word-spacing: -0.4px;
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: capitalize;
+}
+
+.pokedex img {
+    width: 400px;
+    box-shadow: #FFD700 0px -23px 25px 0px inset, #bbbbbbc9 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, #FFD700 0px 2px 1px, #FFD700 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, #FFD700 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    border-radius: 25px;
+
+}
+
+p {
+    padding-top: 10px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    letter-spacing: -0.8px;
+    word-spacing: -0.4px;
+    color: rgb(0, 0, 0);
+    font-weight: 200px;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: normal;
+    text-transform: capitalize;
+}
